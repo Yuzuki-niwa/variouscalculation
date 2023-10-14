@@ -1,0 +1,19 @@
+#result{
+    font-size: 45px;
+}
+
+body{
+    background-image: url("https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG42Ls445o7O5ZmITQroCbc8A1vm-ynBecPPhR_4VRr9tawevJXm85Uu6MCCIvYtUtfofIKOcbyXlBoZFqMm8WWV3RdGC9LV2RTOxOnXIMwAsj4I6s8L1G3aKWcF_3nFXj9d9SQ4oxQFFOFFFhizoQaplMqNQLLAVT4-L5_p5yM2AFKFg4o5KSkhaZEQ4jU2-436x1u7PE3hFj1tQl9OenK0=/parf0619_2.jpg?errorImage=false");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: top right;
+    
+    background-color: black;
+    color: white;
+    
+}
+
+.main{
+    position: relative;
+    top:100px;
+}
