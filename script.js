@@ -5,3 +5,6 @@ function convertHeight(){
     const result = `${feet} feet ${inches} inches`;
     document.getElementById("result").textContent = result;
 }
+
+document.querySelector(".dropbtn").addEventListener("click", function(){document.querySelector(".dropdown-content").classList.toggle("show")
+});
